@@ -26,6 +26,6 @@ This project allows you to add, remove, list, and persist contacts using dynamic
 ## Project Structure
 agenda-em-c/
 │
-├── main.c
+├── Agenda.c
 ├── contatos.bin (generated automatically)
 └── README.md
